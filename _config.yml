@@ -75,16 +75,17 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  article:
+    title: 'Article'    
+  proceedings:
+    title: 'Proceedings'
+  manuscript:
+    title: 'PhD thesis'
   books:
     title: 'books'
   post:
-    title: 'Forum Post'
-  article:
-    title: 'Article'
-  manuscript:
-    title: 'PhD thesis'    
-  proceedings:
-    title: 'Proceedings'
+    title: 'Blog Posts'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
