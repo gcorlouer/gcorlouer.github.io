@@ -81,7 +81,7 @@ publication_category:
     title: 'Forum Post'
   article:
     title: 'Article'
-  thesis:
+  manuscript:
     title: 'PhD thesis'    
   proceedings:
     title: 'Proceedings'
