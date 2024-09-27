@@ -76,15 +76,15 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'books'
   post:
-    title: 'Post'
+    title: 'post'
   article:
-    title: 'Journal Articles'
-  manuscript:
-    title: 'Thesis'    
-  conferences:
-    title: 'Proceedings'
+    title: 'article'
+  thesis:
+    title: 'thesis'    
+  proceedings:
+    title: 'proceedings'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -216,16 +216,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
