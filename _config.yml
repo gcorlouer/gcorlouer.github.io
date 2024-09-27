@@ -21,7 +21,7 @@ repository               : "gcorlouer/gcorlouer.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "profile_pic.jpg"
   name             : "Guillaume Corlouer"
   pronouns         : "he/him"  
   bio              : "Researcher in AI interpretability, interested in multivariate information theory, neuroscience of consciousness and singular learning theory. My background is in applied mathematics."
