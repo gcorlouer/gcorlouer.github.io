@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Guillaume Corlouer"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him"  
+  bio              : "Researcher in AI interpretability, interested in multivariate information theory, neuroscience of consciousness and singular learning theory."
   location         : "London,  UK"
   employer         : "Independant"
   uri              : # URL
@@ -77,10 +77,14 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  post:
+    title: 'Post'
+  article:
+    title: 'Journal Articles'
+  manuscript:
+    title: 'Thesis'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Proceedings'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

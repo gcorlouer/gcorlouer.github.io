@@ -1,7 +1,7 @@
 ---
 title: "Identifying a preliminary circuit for predicting gendered pronouns in gpt-2 small"
 collection: publications
-category: blog posts
+category: post
 permalink: /publication/2023_gender_circuit
 excerpt: 'We explore the use of automated circuit discovery to extract a circuit predicting gender pronouns in GPT2'
 date: 2023
