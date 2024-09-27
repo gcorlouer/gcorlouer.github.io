@@ -1,7 +1,7 @@
 ---
 title: "Investigating information transfer in ECoG time series during visual perception"
 collection: publications
-category: Thesis
+category: manuscript
 permalink: /publication/2022_phd_thesis
 excerpt: 'I investigate directed functional connectivity in human electrocorticographic (ECoG) data during visual perception motivated by predictions from predictive coding.'
 date: 2022
