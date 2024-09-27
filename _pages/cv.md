@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://drive.google.com/file/d/1QecWILyZw2yABfBoNuPLfDdlNm1knxDj/view?usp=sharing" width="500" height="375">
+<embed src="https://gcorlouer.github.io/files/guillaume_corlouer_cv_09_2024_website.pdf" type="application/pdf" width="500" height="375">
