@@ -78,13 +78,13 @@ publication_category:
   books:
     title: 'books'
   post:
-    title: 'post'
+    title: 'Forum Post'
   article:
-    title: 'article'
+    title: 'Article'
   thesis:
-    title: 'thesis'    
+    title: 'PhD thesis'    
   proceedings:
-    title: 'proceedings'
+    title: 'Proceedings'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
